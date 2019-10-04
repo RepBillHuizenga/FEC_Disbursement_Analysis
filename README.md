@@ -1,4 +1,4 @@
-# Michagan Representative Disbursement Spending Analysis
+# Michigan Representative Disbursement Spending Analysis
 
 Analysis of all 14 Michigan house Representative's spending habits.
 
@@ -53,7 +53,7 @@ plt.legend(loc='center left', bbox_to_anchor=(1.0, 0.5))
 
 
 
-    <matplotlib.legend.Legend at 0x7f57a87bafd0>
+    <matplotlib.legend.Legend at 0x7ff1d36c8048>
 
 
 
